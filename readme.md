@@ -4,8 +4,9 @@
 
 PHP的代码风格因为已经有现成的成熟风格，所以这里沿用 PSR 风格的代码规范
 
-| 1 | [基础编码规范](https://phphub.org/topics/2078) |
+| 序号 | 代码风格规范 |
 | --- | --- |
+| 1 | [基础编码规范](https://phphub.org/topics/2078)  |
 | 2 | [编码风格规范](https://phphub.org/topics/2078) |
 | 3 | [日志接口规范](https://phphub.org/topics/2080) |
 | 4 | [自动加载规范](https://phphub.org/topics/2081) |
