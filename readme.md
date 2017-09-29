@@ -1,3 +1,5 @@
-# getting start
+# 起步
 
-## PHP 
+## PHP规范
+
+## Javascript规范 
